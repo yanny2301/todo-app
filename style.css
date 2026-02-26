@@ -3,6 +3,9 @@ body {
   text-align: center;
 }
 button {
-  background: red;
+  background: blue;
   color: white;
+}
+button {
+  background-color: red !important;
 }
